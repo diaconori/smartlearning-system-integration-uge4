@@ -12,7 +12,7 @@ Projektet formår at opfylde dette krav, på en forholdvis simpel og nem tilgang
 
 # Eksempler på kørsel af de to punkter
 Forespørgsel på punktet '/get-address-by-codes':
-![Screenshot](\Images\get-address-by-codes.png)
+![Screenshot](smartlearning-system-integration-uge4/GadenavneWebservice/GadenavneWebservice/Images/get-address-by-codes.png)
 
 Forespørgsel på punktet '/get-addresses-by-name':
-![Screenshot](\Images\get-addresses-by-name.png)
+![Screenshot](smartlearning-system-integration-uge4/GadenavneWebservice/GadenavneWebservice/Images/get-addresses-by-name.png)
