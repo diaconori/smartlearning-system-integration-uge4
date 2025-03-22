@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZR4lXuc43sg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diaco\\Documents\\GitHub\\smartlearning-system-integration-uge4\\GadenavneWebservice\\GadenavneWebservice\\GadenavneWebservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diaco\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\diaco\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

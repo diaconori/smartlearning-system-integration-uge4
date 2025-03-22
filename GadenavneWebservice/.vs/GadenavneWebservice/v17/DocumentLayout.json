@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diaco\\Documents\\GitHub\\smartlearning-system-integration-uge4\\GadenavneWebservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8275D996-760C-4CFD-94A2-97ED7F638995}|GadenavneWebservice\\GadenavneWebservice.csproj|c:\\users\\diaco\\documents\\github\\smartlearning-system-integration-uge4\\gadenavnewebservice\\gadenavnewebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8275D996-760C-4CFD-94A2-97ED7F638995}|GadenavneWebservice\\GadenavneWebservice.csproj|solutionrelative:gadenavnewebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8275D996-760C-4CFD-94A2-97ED7F638995}|GadenavneWebservice\\GadenavneWebservice.csproj|c:\\users\\diaco\\documents\\github\\smartlearning-system-integration-uge4\\gadenavnewebservice\\gadenavnewebservice\\handlers\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8275D996-760C-4CFD-94A2-97ED7F638995}|GadenavneWebservice\\GadenavneWebservice.csproj|solutionrelative:gadenavnewebservice\\handlers\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\diaco\\Documents\\GitHub\\smartlearning-system-integration-uge4\\GadenavneWebservice\\GadenavneWebservice\\Handlers\\DataHandler.cs",
+              "RelativeDocumentMoniker": "GadenavneWebservice\\Handlers\\DataHandler.cs",
+              "ToolTip": "C:\\Users\\diaco\\Documents\\GitHub\\smartlearning-system-integration-uge4\\GadenavneWebservice\\GadenavneWebservice\\Handlers\\DataHandler.cs",
+              "RelativeToolTip": "GadenavneWebservice\\Handlers\\DataHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:37:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diaco\\Documents\\GitHub\\smartlearning-system-integration-uge4\\GadenavneWebservice\\GadenavneWebservice\\Program.cs",
+              "RelativeDocumentMoniker": "GadenavneWebservice\\Program.cs",
+              "ToolTip": "C:\\Users\\diaco\\Documents\\GitHub\\smartlearning-system-integration-uge4\\GadenavneWebservice\\GadenavneWebservice\\Program.cs",
+              "RelativeToolTip": "GadenavneWebservice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:35:11.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
